@@ -1,0 +1,31 @@
+.card-container{
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card-layout{
+    width: 100%;
+    max-width: 720px;
+    background-color: rgb(226, 226, 124);
+    opacity: 0.5;
+}
+.search-container{
+   display: flex;
+   justify-content: center;
+   flex: 1 1 auto;
+   width: 100%;
+    
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: contain;
+}
+.planet-header {
+    background-color: green;
+}
+.homeContainer {
+
+    margin-bottom: 50px;
+}
